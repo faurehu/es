@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Faure Hu</title>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>vim: introducción</title>
+				<subtitle>Editando texto eficientemente</subtitle>
+        <description>
+</description>
+        <pubDate>Sun, 21 Jul 2019 16:57:08 +0100</pubDate>
+        <link>http://localhost:4000/2019-07-21/vim-introduccion/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-07-21/vim-introduccion/</guid>
+      </item>
+    
+      <item>
+        <title>Breve Intro al Podcast</title>
+				<subtitle>Una pequeña nota sobre un innovador medio</subtitle>
+        <description>
+</description>
+        <pubDate>Thu, 11 Apr 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2019-04-11/spanish-podcast-intro/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-04-11/spanish-podcast-intro/</guid>
+      </item>
+    
+      <item>
+        <title>Peru Trip F.A.Q. for Friends</title>
+				<subtitle>what else do you want?</subtitle>
+        <description>&lt;p&gt;Hi! I’m very happy to hear you’re considering to travel down to Peru. Here’s a list of questions I often get when close friends show interest in coming down to the land of potato.&lt;/p&gt;
+
+&lt;h3 id=&quot;is-it-safe-to-visit-peru&quot;&gt;Is it safe to visit Peru?&lt;/h3&gt;
+
+&lt;p&gt;Considering tourists still choose to come here over El Salvador, I’d say yes. Generally speaking, a hesitant no. However, you’re smart enough to turn down shady offers from strangers (unless of course that’s what you want Mr-I-came-to-Peru-to-try-out-the-cocaine-my-uncle-is-raving-about) and sober enough to be able to tell you’re making the wrong turn at a dark alley with the potential to make your night about getting to know the latin american police station culture. If you’re with me, you should not worry. I sandbox my guests, most of them[^1] ;-)&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-there-to-do-in-lima&quot;&gt;What is there to do in Lima?&lt;/h3&gt;
+
+&lt;p&gt;Quite frankly? Some walk tours, some other food tasting tours and spend the rest of your time learning spanish. Maybe you’re quite intense and will try to learn every single detail about the spanish inquisition but if you are all about having a good time what you’ll be hearing from me is you rent a car and a start a roadtrip any direction but west (for obvious reasons). Peruvian countryside has amazing scenery and a unique culture. It’ll be in those places where you’ll feel you’ve entered a different timeline.&lt;/p&gt;
+
+&lt;p&gt;I feel like I haven’t stressed this enough, so I’ll say it again: Lima is all about food. Just come down here to try everything Peruvian food has to offer. It’s amazing and I’m not biased like someone from Poland is going to tell you Polish cuisine is the best one in the world (ew).&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-the-best-time-to-visit-you&quot;&gt;What is the best time to visit you?&lt;/h3&gt;
+
+&lt;p&gt;I’m sort of a freelancer now so I can take most days free. However, I’m still under a self imposed schedule so the earlier you can let me know about your plans, the better. This will also me suggest better times should there be any conflicts, considering most people choose to come in the most popular months. Bottom line, please do not choose your visiting times depending on my availability. I’m happy to see you anytime.&lt;/p&gt;
+
+&lt;p&gt;The best time &lt;em&gt;for you&lt;/em&gt; to visit, is in the warm months - which is all year for you, except maybe August where it drops to 15 degrees. If you’re going to the countryside you want to avoid rainy season from October to February. Tourist peak season is between June and August so keep that in mind if you want keep photobombers away from your instagram feed. My personal suggestion? Come at times there are interesting events going on such as Mistura, the procession of el Señor de los Milagros, a FIFA international date, or any public government strike (ask if you want me to keep you posted).&lt;/p&gt;
+
+&lt;h3 id=&quot;wtf-is-mistura&quot;&gt;WTF is Mistura?&lt;/h3&gt;
+
+&lt;p&gt;The best thing to ever come out of Peru. It’s the de-facto food festival and in Peru that means a lot. I know every country thinks their cuisine is amongst the best one in the world and the mum does the best spaguetti but how many countries have their cooks leading the polls for next head of state? Only Peru. That says more about our political class than our food but I can’t think of a better place to start discovering peruvian culture. After trying an exotic fruit you’ll wonder about the natural landscape capable of producing it, and when trying a fusion between african and japanese tecniques on peruvian potatoes you’ll have a better understanding of the kind of society the peruvian one is.&lt;/p&gt;
+
+&lt;h3 id=&quot;can-i-stay-at-your-place&quot;&gt;Can I stay at your place?&lt;/h3&gt;
+
+&lt;p&gt;Absolutely. However, my place is too far from city centre - far from anything to be fair. This means your uber fares will about double. Oh, you were thinking you’ll use public transport? Probably wrong. Lima isn’t friendly to anything public, so unless you’re the kind of traveller looking for authentic experiences such as eating raw lizards in the amazon, pay your cab fare. The perks of staying of mine are meeting my two cats and enjoying a swimming pool. I’m not hosting your family members because I can barely handle mine, and I’m not hosting your friends because… wtf I thought I’m your only friend /s.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-why-and-how-machu-picchu&quot;&gt;What, why and how Machu Picchu?&lt;/h3&gt;
+
+&lt;p&gt;I’m no expert about peruvian culture so please try not to embarrass me by making any specialised questions like when tourists correct me on my knowledge regarding the differences between alpacas and llamas. If you want to start learning about Peruvian culture why not download the new Sid Meier’s Civilization VI which &lt;a href=&quot;https://www.youtube.com/watch?v=exGFiectofk&quot;&gt;happens to feature the Inca empire&lt;/a&gt;. Try playing as the Inkas for 200 years and then let yourself be conquered by Europeans so you know get to &lt;em&gt;really&lt;/em&gt; know us (Spoiler alert: it’s not fun).&lt;/p&gt;
+
+&lt;h3 id=&quot;ok-seriously-why-and-how-machu-picchu&quot;&gt;Ok, seriously, why and how Machu Picchu?&lt;/h3&gt;
+
+&lt;p&gt;I can’t tell you why you should go to Machu Picchu, but that only speaks to how great it really is. You could go for spiritual reasons, it’s a sanctuary at the top of a mountain in a remote region, so if you don’t find your chakra chances are you are chasing something that doesn’t really exist. You could go for that perfect Instagram picture, and I don’t have anything snarky to say about that because I just realised I don’t have one and I’m pretty sure I’d get lots of likes even if it’s a cliché. Or you could just go because it’s mind blowing and it’s been a while since you’ve left your daily routine and would like to be reminded that there’s still pockets of wonder in the world.&lt;/p&gt;
+
+&lt;p&gt;You cannot spend the night at Machu Picchu, so you’ll most likely take the bus there from Aguas Calientes. Aguas Calientes is a small town in the valley at the base of the mountain, and to get there you need to take a train from Cusco, the nearest city. You are going to need to buy that train ticket ahead of time, and you can also choose to spend the night in Aguas Calientes. You can also be hardcore and do the Inka Trail, a 4 day hike from Cusco all the way to Machu Picchu.&lt;/p&gt;
+
+&lt;h3 id=&quot;do-i-need-to-learn-spanish&quot;&gt;Do I need to learn spanish?&lt;/h3&gt;
+
+&lt;p&gt;Oh no, please don’t do that to yourself.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-dont-you-stop-being-lazy-and-answer-my-questions-like-any-normal-humane-friend&quot;&gt;Why don’t you stop being lazy and answer my questions like any normal humane friend?&lt;/h3&gt;
+
+&lt;p&gt;Please do not let my automated responses demean my excitement of your visit to Peru. You are &lt;em&gt;very&lt;/em&gt; special.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 18 Dec 2018 15:57:08 +0000</pubDate>
+        <link>http://localhost:4000/2018-12-18/peru-faq-for-friends/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-12-18/peru-faq-for-friends/</guid>
+      </item>
+    
+      <item>
+        <title>Strategies for Software Development on the iPad</title>
+				<subtitle></subtitle>
+        <description>&lt;p&gt;Apple has released a new iPad Pro intended to replace a traditional computer, at least for most users. This means that an iPad is now should now be fully equipped to support your spreadsheet activities and photo editing endeavours, which will be enough for most. Apart from video editing or hosting services, there remains a task that escapes the iPad’s realm: software developing.&lt;/p&gt;
+
+&lt;p&gt;Apart from sandboxed IDEs, there is no freedom to create your own runtimes that have command of kernel APIs. However, this does not mean that you cannot develop on your iPad. Here are a few strategies I myself have tried:&lt;/p&gt;
+
+&lt;h2 id=&quot;tmux-mirroring&quot;&gt;Tmux mirroring&lt;/h2&gt;
+
+&lt;p&gt;On my main driver, I run an Arch Linux install with i3 as a Window Manager. On pressing space + return, I can spawn terminals. Each spawned terminal window is automatically a new tmux session.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/terminal-based-computing/arch.png&quot; alt=&quot;png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My main driver is also always running a SSH daemon, which allows remote terminals to connect to my desktop. iOS has many SSH client apps, but none is better thank &lt;a href=&quot;http://www.blink.sh/&quot;&gt;Blink&lt;/a&gt;. It has great features such as mosh protocol support, which will allow you to keep your SSH connection even as you leave the app while using other applications. It also has support for running commands as soon as you SSH into your target host, allowing me to automatically create a tmux session.&lt;/p&gt;
+
+&lt;p&gt;Because everything is hosted on tmux, I can access everything that is also being displayed in my desktop. Say I was editing something on VIM and had to leave, I’m be able to pick up my work where I left, right from my iPad!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/terminal-based-computing/tmux.jpg&quot; alt=&quot;jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;jupyter-hosting&quot;&gt;Jupyter hosting&lt;/h2&gt;
+
+&lt;p&gt;I do a lot of work on jupyter, and even draft blog posts on this editor. Jupyter is web based so you can easily open your port and access the editor from any web browser on your iPad. For security reasons, you are going to need distributing X.509 certificates to your client devices so that your connection is secure.&lt;/p&gt;
+
+&lt;h2 id=&quot;react-development&quot;&gt;React development&lt;/h2&gt;
+
+&lt;p&gt;Achieving comfortable front-end development is still tricky. You can host your development server and allow remote connections to it, so that you can test your changes on your iPad browser while you edit the files on your SSH client. This is also possible with React Native, considering that &lt;a href=&quot;https://expo.io/&quot;&gt;Expo&lt;/a&gt; will allow you to push your development versions to a cloud repository which will automatically be pushed to your native iPad app.&lt;/p&gt;
+
+&lt;p&gt;The main limitation to this is that there are no developer tools on iPad web browsers.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 30 Oct 2018 15:57:08 +0000</pubDate>
+        <link>http://localhost:4000/2018-10-30/strategies-for-developing-software-on-ipad/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-10-30/strategies-for-developing-software-on-ipad/</guid>
+      </item>
+    
+      <item>
+        <title>Primer on Recommendation Engines</title>
+				<subtitle>build one with R Studio</subtitle>
+        <description>&lt;p&gt;Amazon used to employ people to recommend readers the books they might be interested in reading next. Not only that wasn’t going to scale well, but when they automated the process of making recommendations, sales had a significant boost.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/primer-on-recommendations/image1.png&quot; alt=&quot;png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;img-caption&quot;&gt;My amazon recommendations&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;You’ve probably forgotten by now, but the &lt;a href=&quot;http://techblog.netflix.com/2012/06/netflix-recommendations-beyond-5-stars.html&quot;&gt;Netflix&lt;/a&gt; frontpage became popular overnight because it was loaded with a selection of film categories that was made specifically to entice you. They even ran a &lt;a href=&quot;http://netflixprize.com/&quot;&gt;million dollar competition&lt;/a&gt; to improve their recommendation algorithm. Their recommendations set them apart.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/primer-on-recommendations/image2.png&quot; alt=&quot;png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;img-caption&quot;&gt;I’ve never used Netflix to watch Community or Rick and Morty, yet they’ve correctly guessed I’m a Dan Harmon fan!&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.slideshare.net/MrChrisJohnson/algorithmic-music-recommendations-at-spotify&quot;&gt;Spotify&lt;/a&gt; knows you won’t stop listening if they can follow up with the right tune. Similarly, YouTube videos are now left on autoplay by default.&lt;/p&gt;
+
+&lt;p&gt;We thought we were giving movies and books 1 to 5 ratings to broadcast our tastes, but that was just a ploy to get us to give them a clue on what to push for sale (now imagine what Facebook could do with all of your likes).&lt;/p&gt;
+
+&lt;p&gt;You might feel you’re subconsciously losing agency to algorithmic overlords that will influence your choices perpetually. You are right, but this is how things have become and more the reason why &lt;a href=&quot;http://new.spectator.co.uk/2015/10/we-let-programmers-run-our-lives-so-hows-their-moral-code/&quot;&gt;we have to stay vigilant&lt;/a&gt; If you know how they work then you might feel more at ease and easily detect anything suspicious. We do it with Google’s search algorithms, why not Amazon’s recommendations?&lt;/p&gt;
+
+&lt;h1 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h1&gt;
+
+&lt;p&gt;Depending on the the type of data the system has access to, the workings of a recommendation engine can vary. In general, there’s three main streams of data you can feed to your platform.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Personalized recommendation&lt;/strong&gt; is achieved by inspecting records regarding a specific user. This can include explicit vectors such as movie ratings, age or location, or implicit ones determined by behaviour. For example, skipping songs. The ammount of information services can have about one user is enormous, it can extend to the point in which input for algorithms include what time of the day you check your finances.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Social recommendation&lt;/strong&gt; still uses user’s data but places him in a collective context. This can be her group of friends or users who have purchased the same items.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Item recommendation&lt;/strong&gt; is achieved by using information about the items themselves. This is often used in a browsing context, where an algorithm searches for products familiar to the object currently being looked at. Again, the metadata is limited to how the architect builds his information to describe a class of items. It can be as simple as registering language, genre, topic and length of a book, or it can go as far as trying to build a collection of genes to tag music with, which is what music streaming service &lt;a href=&quot;https://www.pandora.com/about/mgp&quot;&gt;Pandora&lt;/a&gt; does.&lt;/p&gt;
+
+&lt;p&gt;Obviously, you don’t necessarily have to compromise to only one kind of data. In fact, all successful platforms use a combination of every kind of data they can use to make the best guess. However, there are different techniques.&lt;/p&gt;
+
+&lt;h1 id=&quot;collaborative-filtering&quot;&gt;Collaborative Filtering&lt;/h1&gt;
+
+&lt;p&gt;In this article I will be going through the &lt;strong&gt;collaborative filtering&lt;/strong&gt; technique. It goes through the user preferences of many items to help them collaborate with each other and predict what someone in specific would rate a selected item. Its premise is that if two people have the same bias towards something, then the probability they will rate something else similarly will be higher.&lt;/p&gt;
+
+&lt;p&gt;So the key here is to find how similar two users are. Each person will have a similarity score relative to each other. Here’s two ways to find this number.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Euclidean distance&lt;/strong&gt; is the distance of two people given their preferences. Suppose we have two items X and Y and two people A and B. A has given item X a rating of 2 out of 5 and to item Y, a 4. On the other hand, user B has rated X with a 3 and Y a 2. Using their X and Y preferences, we can place them in a two dimensional plane.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/primer-on-recommendations/image3.png&quot; alt=&quot;png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;img-caption&quot;&gt;Euclidean distance graph&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;The distance between the two points is obtained by applying the pythagorean principle. The shorter the distance, the more similar they are. A function that calculates the similarity score should iterate through every item they have both rated, collect their preferences and calculate the overall distance. However, the similarity score is to be proportional to the relatedness, so we need to inverse this given number.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Pearson correlation&lt;/strong&gt; also uses a preference space, only in this case each axis represents a user and the points an item where their coordinates are the rating given by each person. Say two users X and Y rate 5 items A, B, C, D and E with [3, 3, 2, 5, 4] and [4, 3, 3, 1, 2] respectively. It renders the following graph:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/primer-on-recommendations/image4.png&quot; alt=&quot;png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;img-caption&quot;&gt;Pearson correlation graph&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;You can see I also plotted a line of best fit. This line is that one that comes as close to all points as possible. If two users had the same ratings for every item this line would touch all points, so the Pearson score is determined by how close this line comes to every point. Although correlation formula is not as intuitive as the distance formula, &lt;a href=&quot;http://www.statisticshowto.com/what-is-the-pearson-correlation-coefficient/&quot;&gt;tutorials&lt;/a&gt; are widely available since it’s a fundamental concept for applied statistics. The formula should return a value between -1 and 1 where -1 means both users have opposite tastes and 1 is their tastes are exactly the same.&lt;/p&gt;
+
+&lt;p&gt;The Pearson correlation is slightly more complicated, hence computationally more expensive, but it will correct for grade inflation. If one critic tends to give out harsher scores than the rest, the correlation will normalize the grades and bring it down to a consistent scale. It is always better to try as many algorithms as possible to see which one is more accurate. You can also look into the coefficient de communauté or the Manhattan distance, they all have a their own advantages.&lt;/p&gt;
+
+&lt;h1 id=&quot;hands-on&quot;&gt;Hands on&lt;/h1&gt;
+
+&lt;p&gt;Now that we know how to find a similarity score, we can start writing the program that will do this for us. I’ve been going through R tutorials at &lt;a href=&quot;http://www.faure.hu/blog/www.datacamp.com&quot;&gt;DataCamp&lt;/a&gt;, so I took the challenge of implementing these algorithms in R. Most of it is straightforward and I’ve made sure to comment lines where a step is given so the whole process is clear.&lt;/p&gt;
+
+&lt;p&gt;Before we start, make sure you have the R binary and R Studio in your systems. We are going to be using public data from &lt;a href=&quot;https://movielens.org/&quot;&gt;MovieLens&lt;/a&gt;. You can download the compressed .zip file &lt;a href=&quot;http://files.grouplens.org/datasets/movielens/ml-100k.zip&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The first thing you want to do is inspect what you have. The uncompressed folder contains a variety of text files. If you go over the README file, you’ll learn that it contains 100k movie ratings given by 943 different users to a variety of 1628 films (among other columns of data). The ratings are specified in the u.data file. Its first column contains the ID of the user who rated the film. This movie’s code is in the second column. The rating is in the third column. The last column represents the POSIX time since it’s been created.&lt;/p&gt;
+
+&lt;p&gt;This table alone should be enough, but if we want to use the names of the films, we’re going to use the u.item file too. This set contains more columns that includes release date and genres but we since we only need the ID of the movie and its name, we need only to pay attention to the first and second columns.&lt;/p&gt;
+
+&lt;p&gt;Once this is clear, we can load the files into our R environment. For this, you need to start R Studio and familiriase yourself with the interface. You will probably find three panes. The largest one on the left side is the console. The other two are your environment are your files viewer, on top and bottom of your left side.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/primer-on-recommendations/image5.png&quot; alt=&quot;png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;img-caption&quot;&gt;R Studio when just opened&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Click ‘Import Dataset’ on the environment tab, select ‘From Text File…’. Select the u.data file you just downloaded and when prompted, change the name of the data frame to something more appropriate. I chose to name it ‘ratings’. You can now click on the import button.&lt;/p&gt;
+
+&lt;p&gt;Before actually importing the u.item table, I’d like you to try and preview the data frame by loading the text file but not importing it. You will notice that the rows are probably not tabulated because the selected separator is set to ‘Tabs’. Regardless of anything you choose, none of the listed separators work because this text file has line columns separated by pipe characters. You are going to have to replace those with something R Studio can interpret. The other options are to split the lines by whitespace, comma, or semicolon characters. Since our film names can contain whitespace or commas, semicolons are the best choice.&lt;/p&gt;
+
+&lt;p&gt;There’s different ways to replace specific characters on files. I used the following command on my OSX terminal:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;sed &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;''&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-e&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'s/|/;/g'&lt;/span&gt; ./path/to/file/_u.item&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Now you can finish loading the file. I named my u.item table ‘movies’. You can use the console to play around with these two tables. Try logging ‘movies’, ‘ratings[2]’, or whatever you feel like.&lt;/p&gt;
+
+&lt;p&gt;It’s important we have it easy when dealing with this data, so we should name the columns at least for the ratings table. You can do this by using the colnames function. Call the following lines in the console.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; column_names &amp;lt;- c&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;user_id&quot;&lt;/span&gt;, &lt;span class=&quot;s2&quot;&gt;&quot;movie_id&quot;&lt;/span&gt;, &lt;span class=&quot;s2&quot;&gt;&quot;rating&quot;&lt;/span&gt;, &lt;span class=&quot;s2&quot;&gt;&quot;timestamp&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; colnames&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;ratings&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &amp;lt;- column_names&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Try the results by logging ratings or ratings$user_id.&lt;/p&gt;
+
+&lt;p&gt;Your environment is now properly set up and ready to call some functions. Go to File &amp;gt; New File &amp;gt; R Script and an blank text editor should come up. Here’s the function for calculating the Euclidean distance similarity score:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-r&quot; data-lang=&quot;r&quot;&gt;&lt;span class=&quot;c1&quot;&gt;# Returns Euclidean Distance Score between user1 and user2&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;euclidean&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ratings_data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;users&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;user1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;user2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Get the users column from the data&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;users&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ratings_data&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;user_id&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+	&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;#Retrieve the users and their rated movies&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first_user&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ratings_data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;users&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;user1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first_movies&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first_user&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movie_id&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;second_user&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ratings_data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;users&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;user2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;second_movies&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;second_user&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movie_id&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+	&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;squares&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;vector&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+	&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;#Loop through both sets of movies&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+		&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movie1&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;in&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first_movies&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+		&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movie2&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;in&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;second_movies&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+			&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;#Check if both users have rated the same movies&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+			&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movie1&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movie2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+				&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;#Retrieve the rating each gave to the film&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+				&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first_rating&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first_user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first_movies&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movie1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,]&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rating&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+				&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;second_rating&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;second_user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;second_movies&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movie2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,]&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rating&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+				&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Push the square of the difference&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+				&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;squares&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;squares&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first_rating&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;second_rating&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;^&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+			&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+		&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+	&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Return 0 if they haven't both rated any film&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;squares&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+		&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;return&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+	&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Get the sum of the squares&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;squares_sum&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;squares&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+	&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Return the score&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;sqrt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;squares_sum&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;To call this function, you need to load the script to your environment. Do this by pressing the Source option on the right side of the text editor toolbar. Now that ‘euclidean’ is available in your environment, you can call it.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-r&quot; data-lang=&quot;r&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;euclidean&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ratings&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;users&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;This will give you the similarity score between users with ids 1 and 2. To test if the function actually works, you can try feeding the same users to the function, it should return a similarity score of 1.&lt;/p&gt;
+
+&lt;p&gt;Here’s the code for the Pearson correlation function:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-r&quot; data-lang=&quot;r&quot;&gt;&lt;span class=&quot;c1&quot;&gt;# Returns Pearson Correlation between user1 and user2&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pearson&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ratings_data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;user1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;user2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+	&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;users&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ratings_data&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;user_id&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+	&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first_user&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ratings_data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;users&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;user1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first_movies&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first_user&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movie_id&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;second_user&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ratings_data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;users&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;user_id&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;user2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;second_movies&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;second_user&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movie_id&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+	&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rated&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;vector&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+	&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movie1&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;in&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first_movies&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+		&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movie2&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;in&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;second_movies&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+			&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;#This time, if both rated same film then push the movie into rated vector&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+			&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movie1&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movie2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+				&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rated&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rated&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movie1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+			&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+		&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+	&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rated&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+		&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;return&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+	&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Get the ratings&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first_ratings&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first_user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first_movies&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%in%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rated&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,]&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rating&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;second_ratings&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;second_user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;second_movies&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%in%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rated&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,]&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rating&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+	&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Sum of ratings&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first_sum&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first_ratings&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;second_sum&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;second_ratings&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+	&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Sum of squares of ratings&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first_sq&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first_ratings&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;^&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;second_sq&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;second_ratings&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;^&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+	&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# sum of product of ratings&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;product_sum&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first_ratings&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;second_ratings&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+	&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Calculate the Pearson score and return&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;product_sum&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first_sum&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;second_sum&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;den&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;sqrt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first_sq&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;first_sum&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;^&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;second_sq&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;second_sum&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;^&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+	&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;den&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;This function has the same signature as the previous one, so you call and test it just the same way.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-r&quot; data-lang=&quot;r&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pearson&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ratings&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Alright, now we have similarity scores but can we actually recommend films to a user? Not quite there yet. We can tell to what extent people are similar to each other, and this can be used to finish the recommender.&lt;/p&gt;
+
+&lt;p&gt;You can choose to go through the most similar critics and their favorite films until there’s one movie you haven’t seen yet. But sometimes one similar user can like a film when other similar ones have disliked it. To avoid this, we are going to give each movie a score.&lt;/p&gt;
+
+&lt;p&gt;To obtain the recommendation score of a movie, we are going to take the rating each other person gave to the film and multiply it by the similarity score of this person to obtain a weighted score. The sum of all weighted scores would be a very accurate score if it wasn’t for the fact that some movies have been rated more than others, so we are going to divide it by the total of similarity scores. This will give our most correct recommendation score.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-r&quot; data-lang=&quot;r&quot;&gt;&lt;span class=&quot;c1&quot;&gt;# Returns films from movies_list sorted by recommendation in descending order&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;recommend&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ratings_data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movies_list&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sim_function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+  &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;users&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ratings_data&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;user_id&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+  &lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Create arrays for the weighted and numeric scores&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;weighted&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;numeric&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;nrow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movies_list&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sim_sums&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;numeric&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;nrow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movies_list&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+  &lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Get the user ratings&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;user_ratings&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ratings_data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;users&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Get the list of movies rated by the user&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;user_movies&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;user_ratings&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movie_id&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+  &lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Loop the list of users&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;other&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;in&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;unique&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;users&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+    &lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Skip if the user is the same one&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;other&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+      &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;next&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+    &lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;#Get the similarity score&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sim&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sim_function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ratings&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;other&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# If score is 0 or negative, ignore this critic&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sim&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+      &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;next&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+    &lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Obtain the ratings made by the other user&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;other_ratings&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ratings_data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;users&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;other&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+    &lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Loop through the ratings of the other user&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;in&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;nrow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;other_ratings&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+      &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;other_ratings&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+      &lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Get the rate the user has given this film&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+      &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;user_rated&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;user_ratings&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rating&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movie_id&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;user_movies&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+      &lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Determine if the user rating for this film doesn't exist&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+      &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rate_unexist&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;user_rated&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+      &lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Determine if the user rating for this film is 0&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+      &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rate_empty&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rate_unexist&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kc&quot;&gt;TRUE&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;user_rated&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+      &lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Check if the user has not rated this film yet (unexistant or equal to 0)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+      &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rate_unexist&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rate_empty&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+        &lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Log to visualize progress&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+        &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+        &lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Collect the total and weighted scores&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+        &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;weighted&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movie_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;weighted&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movie_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rating&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sim&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+        &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sim_sums&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movie_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sim_sums&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;entry&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movie_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sim&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+      &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+  &lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Get the ranking for each film&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rankings&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;list&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;k&quot;&gt;in&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;weighted&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Get the name of the film&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movie_name&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;as.character&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;levels&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movies&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]))[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Save recommendation score to name key&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rankings&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movie_name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;weighted&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sim_sums&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+  &lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# Sort rankings in descending order and return&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rankings&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;order&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;unlist&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rankings&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;decreasing&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;kc&quot;&gt;TRUE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;You call this function by passing it the ratings table, the movies table, the ID of the user to be recommended and the name of the similarity function you want to use. I recommend you to save it to a variable so you can inspect the result closely.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-r&quot; data-lang=&quot;r&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;recommendation_list&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;recommend&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ratings&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movies&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;euclidean&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;This function take noticeably much longer to complete, which is why I have placed a logger inside the nested loop. It takes three minutes in my late 2013 Macbook Pro and it is the most I have been able to optimise without using dedicated libraries or apply functions. This code does go over a lot of stuff and it’s much better than my first draft which took over 9 minutes. You’re very welcome to improve it, if you do please let me know so I can update this with proper credits.&lt;/p&gt;
+
+&lt;p&gt;Now that you have the recommendation_list, you can inspect it. Try to see which are the top 20 recommended films for the user by calling recommendation_list[1:20].&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-r&quot; data-lang=&quot;r&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;recommendation_list&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;`Prophecy II, The (1998)`&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;`Kika (1993)`&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;`Paper, The (1994)`&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;`Quiet Man, The (1952)`&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;`Secret Adventures of Tom Thumb, The (1993)`&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;`That Darn Cat! (1997)`&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;`Tin Drum, The (Blechtrommel, Die) (1979)`&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;`True Romance (1993)`&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;`Walking Dead, The (1995)`&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;`Wooden Man's Bride, The (Wu Kui) (1994)`&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;`T-Men (1947)`&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;4.701408&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;`Star Trek: The Motion Picture (1979)`&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;4.658359&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;`Bad Girls (1994)`&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;4.612912&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;`Winter Guest, The (1997)`&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;4.597661&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;`Parent Trap, The (1961)`&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;4.571487&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;`Psycho (1960)`&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;4.554834&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;`Desperado (1995)`&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;4.550819&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;`Wings of Desire (1987)`&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;4.513099&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;`Extreme Measures (1996)`&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;4.499746&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;`Sound of Music, The (1965)`&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;4.489382&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Awesome stuff.&lt;/p&gt;
+
+&lt;p&gt;The accuracy of the recommendation engine can only be validated by the recommendees themselves. Ask them to continue rating films and see if their ratings match. Alternatively, you can remove a single rating from the user, run the recommendation engine and see if the recommendation score of the detached film matches the original one.&lt;/p&gt;
+
+&lt;h1 id=&quot;want-more&quot;&gt;Want more?&lt;/h1&gt;
+
+&lt;p&gt;Recommendation engines come in many forms and many people rate their efficiency using different metrics. I hope that with this short tutorial you have gained the basic knowledge to start experimenting with recommenders.&lt;/p&gt;
+
+&lt;p&gt;If you are interested in learning more about recommendation engines, I recommend you get your hands on &lt;a href=&quot;http://www.amazon.co.uk/Programming-Collective-Intelligence-Building-Applications/dp/0596529325&quot;&gt;Programming Collective Intelligence&lt;/a&gt; by Toby Segaran. One chapter covers everything we’ve learned today and the rest of the book has more introductions to equally interesting topics.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Nov 2015 15:57:08 +0000</pubDate>
+        <link>http://localhost:4000/2015-11-09/primer-on-recommendations/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015-11-09/primer-on-recommendations/</guid>
+      </item>
+    
+      <item>
+        <title>How I learned webdev</title>
+				<subtitle>a walkthrough my first steps as a web developer</subtitle>
+        <description>&lt;p&gt;When built my first personal website, I didn’t know how to run code on a remote host to listen to different endpoints and serve the respective content. Naturally, the result was a static website:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/how-i-learned-webdev/image1.png&quot; alt=&quot;png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This has been my online profile since June, and the more I learned about web development the more I was stinged by the limitations of my website. Additionally, I realised that I’d been learning many interesting things that are worth sharing, so I decided to build a blog.&lt;/p&gt;
+
+&lt;p&gt;Using existing solutions like WordPress didn’t seem very interesting to me as someone who wanted to understand his publishing platform. I wanted to spend time writing code to become a better programmer. Using pre-existing publishing platforms were, to me, the cheat option.&lt;/p&gt;
+
+&lt;p&gt;At the time I was about to take my Programming Applications exam, a module that taught us to use the Java Swing library to build desktop UI for our apps. And so I decided to build my content management client in Java.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/how-i-learned-webdev/image2.png&quot; alt=&quot;png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As ugly as it is, it does exactly what I needed which is saving and editing my texts and pictures to a remote Mongo database. A small Express app fetched the data from the same database and served each image on it’s own endpoint and each post with a jade templated view. Each post page had a form for comments which Express handled and saved. My Java client was also built to review and accept these pending comments.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/how-i-learned-webdev/image3.png&quot; alt=&quot;png&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;learned-lesson&quot;&gt;Learned lesson&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/how-i-learned-webdev/image4.png&quot; alt=&quot;png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It was definitely a step up from the first website but not without its problems. I was never happy with the design. I realised this was because I was taken away by the amazing resources I had found online such as wallpapers, color palettes, fonts and animations. I wanted to use all of it. Unsurprisingly, the end product was an incoherent collage with a lot of noise.&lt;/p&gt;
+
+&lt;p&gt;Another problem I felt I had was that I had only picked MongoDB because it’s popular to use with Node and Express as part of the MEAN stack. As easy as I thought setting up MongoDB was, it can apparently &lt;a href=&quot;http://cryto.net/~joepie91/blog/2015/07/19/why-you-should-never-ever-ever-use-mongodb/&quot;&gt;lose data&lt;/a&gt;. I also felt I had to discover the relational databases so I could have a better understanding of the storage tools available to a developer.&lt;/p&gt;
+
+&lt;p&gt;I also had not given any thought to how it’d be best to format my text. I was inserting HTML tags inside my string and when I discovered &lt;strong&gt;Markdown&lt;/strong&gt; I realised this wasn’t going to be a problem anymore.&lt;/p&gt;
+
+&lt;p&gt;As soon as I tried to solve these problems, I ran into the biggest realisation I’ve had while building my blog. I had written the code without any of consideration of my future self. All the code I have written until then was for coursework and hackathon projects, so shipping was the only goal. Once I had submitted it for review be it a demo pitch or a coursework deadline, I was never going to work on it again. &lt;strong&gt;The biggest lesson of all was shifting from a bodge code mentality to a maintainable code focus. And this makes all the difference&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;I put this project on hold while I spent my Summer working with Red Badger. That was a great experience and it introduced me to a lot of new technologies and good practices. Once I finished the programme, I had learnt so much that it was very easy to scratch all previous work and build the whole thing again.&lt;/p&gt;
+
+&lt;h1 id=&quot;current-code&quot;&gt;Current code&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/how-i-learned-webdev/image5.png&quot; alt=&quot;png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I built my homepage with &lt;strong&gt;React.js&lt;/strong&gt;. It is a front-end framework that bundles HTML into objects called Components. This is the Column Component from which all columns in the homepage inherit:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-jsx&quot; data-lang=&quot;jsx&quot;&gt;&lt;span class=&quot;k&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;React&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'react/addons'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;CardComponent&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'../Cards/CardComponent'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;default&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;ColumnComponent&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;extend&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;React&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Component&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+	&lt;span class=&quot;kr&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;displayName&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'Column Component'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+	&lt;span class=&quot;kd&quot;&gt;constructor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;props&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+		&lt;span class=&quot;k&quot;&gt;super&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;props&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+	&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+	&lt;span class=&quot;nx&quot;&gt;getColumnClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+		&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;''&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+	&lt;span class=&quot;nx&quot;&gt;renderCards&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+		&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;map&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+			&lt;span class=&quot;nx&quot;&gt;cards&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&amp;lt;&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;CardComponent&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;num=&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;key=&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;/&amp;gt;);&lt;/span&gt;
+		&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+	&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+	&lt;span class=&quot;nx&quot;&gt;renderColumnHeader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+		&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+			&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;className=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;column-header&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
+				Title
+			&lt;span class=&quot;p&quot;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;div&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
+		&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+	&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+	&lt;span class=&quot;nx&quot;&gt;render&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+		&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+			&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;className=&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;`column ${this.getColumnClass()}`&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
+				&lt;span class=&quot;si&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;renderColumnHeader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;
+				&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;className=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;column-content&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
+					&lt;span class=&quot;si&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;renderCards&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;
+				&lt;span class=&quot;p&quot;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;div&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
+			&lt;span class=&quot;p&quot;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;div&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
+		&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+	&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;All subcolumns override the functions getColumnClass, renderCards and renderColumnHeader. The same is done with the cards. I wrote all of my Javascript with ES6, Javascript’s next version. It brings easier syntax and features, I compile it with Babel.js.&lt;/p&gt;
+
+&lt;p&gt;As for the content management client, I ditched the Java and remade it with React, but since it’s something only I was supposed to use, I made a desktop client. This was possible thanks to &lt;strong&gt;Electron&lt;/strong&gt;. Built on top of Chromium’s engine, it lets me run HTML views for Node.js processes, so my ‘client’ Javascript code can actually interact with Node.js and perform operations natively. It’s awesome.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/how-i-learned-webdev/image6.gif&quot; alt=&quot;png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The gif above show’s how I’m able to drop an image to my editor and once the post has been created, the path to the image is replaced for a link to an &lt;strong&gt;S3 host&lt;/strong&gt;. A challenge I had doing this was posting more than one image to AWS before I saved the post. I could easily identify the paths of images that needed to be uploaded thanks to a Markdown AST, but telling my code to only save the post once all of the images finished uploading was tricky because I didn’t know how to make a loop iterate only when the async code inside the iteration was finished.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;traverseTree&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;tree&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;callback&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+	&lt;span class=&quot;c1&quot;&gt;// tree is the Markdown AST&lt;/span&gt;
+	&lt;span class=&quot;nx&quot;&gt;traverse&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;tree&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;forEach&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;node&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+		&lt;span class=&quot;c1&quot;&gt;// check if the node is not an array, is an object and is an image&lt;/span&gt;
+		&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;Array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;isArray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;node&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;typeof&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;node&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'object'&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;node&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!==&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;null&lt;/span&gt;
+			&lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;node&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;type&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'image'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+				&lt;span class=&quot;c1&quot;&gt;// uploadImage is the async code that uploads the image to S3&lt;/span&gt;
+				&lt;span class=&quot;nx&quot;&gt;uploadImage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;node&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+		&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+	&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+	&lt;span class=&quot;c1&quot;&gt;// the callback is called even before the first image is uploaded&lt;/span&gt;
+	&lt;span class=&quot;nx&quot;&gt;callback&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;The interpreter was executing the code after the for-loop right after reading it, before my images had been uploaded and so the post was saved with the local path. I solved this by using &lt;strong&gt;Promises&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;traverseTree&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;tree&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Promise&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;resolve&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;reject&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+		&lt;span class=&quot;c1&quot;&gt;// map of the traverse will return an array of promises&lt;/span&gt;
+		&lt;span class=&quot;kd&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;promisesArray&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;traverse&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;tree&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;map&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;node&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+			&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;Array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;isArray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;node&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;typeof&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;node&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'object'&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;node&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!==&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;null&lt;/span&gt;
+				&lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;node&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;type&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'image'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+					&lt;span class=&quot;c1&quot;&gt;// uploadImage now returns a promise&lt;/span&gt;
+					&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;uploadImage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;node&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+			&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+		&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+		&lt;span class=&quot;c1&quot;&gt;// Once all of the promises inside is complete, call resolve&lt;/span&gt;
+		&lt;span class=&quot;nb&quot;&gt;Promise&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;all&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;promisesArray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;then&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;resolve&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;catch&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;reject&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+		&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h1 id=&quot;it-is-not-finished&quot;&gt;It is not finished&lt;/h1&gt;
+
+&lt;p&gt;Having made my page maintainable means that the next time I have a new feature I want to implement I won’t have to redo it again, but I will be able to build on top of this alpha version without being stressed about caveats I left behind. This takes more discipline when writing code but I quickly learned that good code is something you support, not something you bootstrap for a demo. It also means your time is vulnerable to whatever bug shows up on the system, but I’m happy to trade that for calling something of my own.&lt;/p&gt;
+
+&lt;p&gt;There’s much more I can do to this site. Adding a comment form to the post, implementing the Flux architecture to my content management client or bringing GraphQL to my columns are a few examples of those things I want to do.&lt;/p&gt;
+
+&lt;p&gt;However, I want to take a break from web development and pick up on something I’ve been wanting to do for a while now, &lt;strong&gt;data science&lt;/strong&gt;. This is mainly what I’m going to write about so pay attention to this space!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 15 Oct 2015 16:57:08 +0100</pubDate>
+        <link>http://localhost:4000/2015-10-15/how-i-learned-webdev/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015-10-15/how-i-learned-webdev/</guid>
+      </item>
+    
+      <item>
+        <title>My take on SeedHack</title>
+				<subtitle>a retell of my first hackathon</subtitle>
+        <description>&lt;p&gt;Hello Hemali,&lt;/p&gt;
+
+&lt;p&gt;I apologise for such a late reply, but I wanted to find a good chunk of time where I focus solely on writing my review of the ‘SeedHack’ hackathon.&lt;/p&gt;
+
+&lt;p&gt;First of all, I want to thank you for making the ticket available for me. I could tell it was hard to get a confirmation as my name was not on the list when I arrived for registration, but it was not much of a problem for they allowed me entrance as soon as I told them I was from King’s College London and the house Commercialisation Institute had got in touch with them regarding my attendance.&lt;/p&gt;
+
+&lt;p&gt;I want to come clear and note that this was my first hackathon ever. However, even though I am only a first year undergrad student, I can offer some useful insight. I have been following the tech industry for a very long time and mainly because of this interest is that I decided to suddenly ditch my plans for the weekend and attend a venture fund event.&lt;/p&gt;
+
+&lt;p&gt;This event was very well planed and held in one of the coolest venues in London. I had previously been to Google Campus so I knew I was in for a treat. The atmosphere felt friendly and encouraging. We had choice for the food, from salads to barbecue (and it was all free!). People who wanted to stay the whole weekend had showers available. Seedcamp invited very generous sponsors such as Smartables, Resin.IO, and Lateral to promote their products by letting us hack with them.&lt;/p&gt;
+
+&lt;p&gt;I had no problem socialising as everyone was very kind and open to new ideas. I even managed to organise a team around a problem I had in my flat the previous week. Basically, when everyone came back from holidays the rota for emptying the garbage bin had been forgotten and there was no communication about who was supposed to empty it first. The bin overloaded and mess ensued. I came onto the stage to tell the story:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/my-take-on-seedhack/image.png&quot; alt=&quot;png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I was lucky not only to garner interest but also to have a very skilful team that included a very experienced Java engineer and an ex Google employee. I learned a lot from them. With their help, we managed to attach an ultrasonic sensor to a bin lid, a led and a camera. The camera was capable of recognising users, which is why we were given the Big Brother award. I am still not sure wether I should be proud about it.&lt;/p&gt;
+
+&lt;p&gt;The downside was that I didn’t find myself as useful to my team as I wanted to be. But this make sense as this is a hackathon organised by a venture fund and not a university (more on that difference later). I learned that techies love hacking and do so for the sake of discovering what new magic trick they can pull off, but they can’t draw an endgame for their innovative product to have a killer feature, something that would appeal the average consumer. Being able to recognise these project necessities made me realise that I should not only be promoting myself as a programmer but also as a business developer. I spend everyday writing code so I often forget that I’m doing a Computer Science with Management degree.&lt;/p&gt;
+
+&lt;p&gt;I was also lucky to have the winner team work right next to me the whole weekend. They basically drafted a business plan for a smart gym. The idea relies on loading equipment such as weights with sensors and giving the user some quantitative data. Even though they managed to develop a working prototype for the weekend, I could tell they were more of the business type as they made real use of a whiteboard with post-it notes. Their ability to draft a sustainable business plan was exactly what the judges were looking for. A venture fund hackathon will look for a solid business model rather than a cool hack. A university hackathon will be about having fun with the technologies, which is also OK. So my suggestion is that the King’s Commercialisation Institute help not only techies from King’s to join these events but also the business students. They’d also have much to contribute in there.&lt;/p&gt;
+
+&lt;p&gt;I managed to make very useful contacts such as representative from Smartables and am now interested in putting them in contact with the KCL Tech Society to organise a workshop on how to use their products.&lt;/p&gt;
+
+&lt;p&gt;I believe KCL’s partnership with Seedcamp would be very useful for the commercialisation of its projects, we should offer them the opportunity to come talk to our soon to be graduates to encourage entrepreneurship among our students. Currently, the university is not very helpful in terms of funding and I believe pitching to these kind of venture funds can help us pick up some interesting projects in house.&lt;/p&gt;
+
+&lt;p&gt;I want to thank you again, please do not hesitate to make me more questions if there are any more. Please sign me up to your newsletter so I can be aware of more events like this.&lt;/p&gt;
+
+&lt;p&gt;Kind regards,&lt;/p&gt;
+
+&lt;p&gt;Faure Hu&lt;/p&gt;
+
+&lt;p&gt;PD: I will share this letter in my blog. I feel this is a nice account of my experience. I hope this will not be an issue.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Oct 2015 16:57:08 +0100</pubDate>
+        <link>http://localhost:4000/2015-10-14/my-take-on-seedhack/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015-10-14/my-take-on-seedhack/</guid>
+      </item>
+    
+      <item>
+        <title>The making of &quot;Us&quot;</title>
+				<subtitle>or the problem of the ego</subtitle>
+        <description>&lt;p&gt;I tend to come up with lyrical quotes every once in a while and I write them down in post-its all over my wall, these include motivational phrases like “Change was yesterday” or inspiring mottos as “Own a question to own a purpose”. Not very long ago I passed the note “To the universe the only conscious being is itself” to a friend of mine that often practices meditation. I couldn’t really sustain a thesis, I only came with it because of my pretentiousness along with an inspiration from Asimov’s short story in which the universe becomes a living entity, and extreme cynicism that makes me believe the universe doesn’t care about anybody (which you don’t have to be a pessimistic person to actually believe).&lt;/p&gt;
+
+&lt;p&gt;My friend never agreed with me but it sure had him thinking because after he left for a 10 day meditation retreat he told me he thought it was the opposite, “we avoid universal consciousness”. This does make sense, as almost everybody think of themselves separately from the cosmos. Ever since we were born, we tend to split ourselves from the rest. There’s a ‘me’ and then there’s a ‘you’ along with everybody else.&lt;/p&gt;
+
+&lt;p&gt;Ego is what doesn’t allow me to achieve that kind of zen. Some people say they have reached enlightenment but to me ego is something being build by the minute, everything detail we know has come through our senses. I’m trying to make a case for our humane selfishness, but I don’t really need to. We remember the places we have been, the fields we have studied, the trouble we went through and how we felt when we did those things. We know ourselves and strongly relate to ourselves.&lt;/p&gt;
+
+&lt;p&gt;Thinking of what universal consciousness means may be something very complicated to imagine for an uninitiated mind, but something in between is easier to explain. There is people who are capable to achieve a collective consciousness. Something like a perfect president who is capable not only of embodying the executive power of his nation but to put the priorities of his country in front of his own. This goes from big things like backpackers who’ve been through every continent achieving the rank of global citizen to small like a father thinking about his family. You can see now how hard it can be to achieve universal consciousness.&lt;/p&gt;
+
+&lt;p&gt;I could be absolutely wrong, but today I define consciousness as the product of a collection of information. Whatever I hold in my head at the moment is either information that has been processed by my brain after receiving a signal from my sense organs or information I have retrieved from my memory. Maybe the function of consciousness is mashing this different information and coming up with new ones we call ideas. This definition can probably be contested by those who believe in something beyond the material world, but I stand by it since it’s the only way I can explain consciousness to myself with my own resources.&lt;/p&gt;
+
+&lt;p&gt;What I took from the exchange with my friend is the realisation we all share some common ground and that our egos are actually only a tip of the snowflake we are. So there has always been an ‘us’. “No man is an island” said John Doe centuries ago.&lt;/p&gt;
+
+&lt;p&gt;To achieve universal consciousness first we have to achieve the consciousness of ‘us’. That seems challenging, technology nowadays may be facilitating communication and bringing us closer to that mind to mind transparency, but would we ever shrink our egos? Yes. Letting go of oneself seems impossible but theoretically it sounds comforting.&lt;/p&gt;
+
+&lt;p&gt;I have always been fascinated by the universe, I try to study it in every aspect and that’s why I consider myself a man of science. Learning about microorganisms, ant colonies, neurological systems and metropolitan cities have all something in common, having been made of smaller and indispensable components, they are at their own level a collective conscience. We are made of cells and together we make a civilisation that I hope someday will be part of something else. I truly believe we are transitioning into something greater, it’s the call of nature.&lt;/p&gt;
+
+&lt;p&gt;But it seems that to get there, we need to let go of ourselves. Or should we?&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Oct 2015 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2015-10-14/the-making-of-us/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015-10-14/the-making-of-us/</guid>
+      </item>
+    
+  </channel>
+</rss>
