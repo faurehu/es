@@ -10,14 +10,14 @@ date: 2019-07-21 16:57:08 +0100
 
 Un editor de texto es una de las herramientas fundamentales del programador. La programación esta compuesta por múltiples actividades, pero en la práctica se le definir brevemente como el dictado de instrucciones a una computadora. Producir los resultados que esperamos en el primer intento es bien raro, por lo tanto toca editar. Y hay mil maneras de hacerlo.
 
-![png]({{ site.url }}/assets/images/vim-introduccion/xkcd-real-programmers.png)
+![png]({{ site.url }}{{ site.baseurl }}/assets/images/vim-introduccion/xkcd-real-programmers.png)
 <span class="img-caption">Sería ironico que los programadores, quienes nos dedicamos a construir herramientas, no nos preocuparamos por aquellas herramientas que utilizamos diariamente para construir finalmente, mas herramientas.</span>
 
 Vim fue creado en los 90 por Bram Moolenaar y viene de una tradición ya legendaria que no conocía el mundo de las pantallas electrónicas sino las terminales de papel, aquellas de copia dura. Veremos un poco sobre eso más abajo. Lo que destaca de vim es su minimalismo, portabilidad y poder. Vim nos permite exigir a nosotros mismos lo mismo que le exigimos a nuestro código, siempre __DRY__, siempre __KISS__[^1].
 
 Mi ultima afirmación es reprochable. La primera pregunta en Stack Overflow en llegar al millón de usuarios fue: [¿Cómo se sale de vim?](https://stackoverflow.com/questions/11828270/how-do-i-exit-the-vim-editor). Aún así, sigo creyendo que vim es sencillo. Gran parte de su elegancia se debe al uso de [mnemonicos](https://www.wikiwand.com/es/Regla_mnemot%C3%A9cnica). Por ejemplo: si deseo borrar una palabra uso la `dw`, donde `d` representa _delete_ y la `w` implica _word_. Gracias a esto casi siempre es fácil acordarse que teclas guarda el comando que deseo expresar. Otra caracteristica básica de VIM es su modalidad: el significado de las teclas va variando dependiendo del contexto, cosa que me libra de tener que usar mi teclado como pianista: presionando CTRL + ALT + SHIFT[^2] a la misma vez para lograr la misma tarea.
 
-![png]({{ site.url }}/assets/images/vim-introduccion/how-to-exit-vim.png)
+![png]({{ site.url }}{{ site.baseurl }}/assets/images/vim-introduccion/how-to-exit-vim.png)
 
 Vim es uno de los editores de textos [más populares](https://insights.stackoverflow.com/survey/2019#development-environments-and-tools). Es más, para utilizarlo no hay que usar vim. Si un editor soporta extensiones, es muy probable que tenga una extension vim, y estas son [bien populares](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim). Yo personalmente utilizo atajos vim en el [ navegador ](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/) y en la linea de comandos. Aplicaciones web como Facebook, Twitter y Gmail utilizan las teclas `J` y `K` para navegar.
 
@@ -27,14 +27,14 @@ Es por esto que por lo general no se recomienda utilizar el mouse [^4], aparte d
 
 La interfaz de vim no fue diseñada para ser usado sin mouse pero porque cuando se diseñó todavía no se usaban los mouse. El ahorro de tiempo por no mover las manos de la fila casa a las flechas del teclado fue otro accidente fortuito, ya que tampoco fue por diseño, sino fue una limitación del autor que escribió el programa en una ADM-3a, una terminal que no tenia teclas direccionales y utilizaba `HJKL` con modificadores para indicar dirección[^5].
 
-![png]({{ site.url }}/assets/images/vim-introduccion/adm-3a.png)
+![png]({{ site.url }}{{ site.baseurl }}/assets/images/vim-introduccion/adm-3a.png)
 <span class="img-caption">Una ADM-3a de Lear Siegler, el mismo modelo que utilizo Bill Joy para escribir visual mode en ex.</span>
 
 Es interesante notar que estos beneficios de vim aparecen debido a sus limitaciones y no por genio. Es más, el núcleo de la filosofía de vim proviene de la época de las mini-computadoras, cuando no existían todas las facilidades que hoy damos por contadas. Pero fueron estas mismas limitaciones que crearon las soluciones que vim heredó y mantiene hasta el día de hoy.
 
 Siempre escucharemos que enviamos una nave espacial a la Luna con una computadora mas lenta que las que tenemos en el bolsillo, lo que nadie menciona es que esta máquina no solamente era ordenes de magnitud mas lenta, sino que tampoco venia con una touch screen y botones intuitivos. Antes de las interfaces gráficas solo existia la terminal[^6], y antes de los monitores eléctronicos, las terminales eran de papel.
 
-![png]({{ site.url }}/assets/images/vim-introduccion/dennis-ken.png)
+![png]({{ site.url }}{{ site.baseurl }}/assets/images/vim-introduccion/dennis-ken.png)
 <span class="img-caption">Dennis Ritchie y Ken Thompson trabajando con una PDP-11 por medio de una 33-ASR.</span>
 
 En la foto superior se puede apreciar a Ken Thompson tipeando en una 33-ASR. Estos teletipos eran máquinas de escribir integradas con una impresora. La impresora imprimía la información que nos entregaba la misma computadora en el mismo rollo de papel que se tipeaba el comando.  Con el boton enter[^7] se le indicaba al teletipo que era hora de entregar el control a la computadora, transpilando lo último que habíamos escrito en una cinta perforada que se alimentaba a la computadora para que la interprete.
@@ -51,15 +51,15 @@ Esta clase de editores siguió evolucionando. Ed dio paso a em que en su turno d
 
 En la siguiente demostración, entraré al visual mode y moveré el cursor por el texto utilizando objetos de texto.
 
-![gif]({{ site.url }}/assets/images/vim-introduccion/vi-movement-demo.gif)
+![gif]({{ site.url }}{{ site.baseurl }}/assets/images/vim-introduccion/vi-movement-demo.gif)
 
 En el siguiente ejemplo, insertaré texto. Fijense que en la parte inferior hay un indicador que demuestra que mi editor esta en modo __insertar__.
 
-![gif]({{ site.url }}/assets/images/vim-introduccion/vi-insertion-demo.gif)
+![gif]({{ site.url }}{{ site.baseurl }}/assets/images/vim-introduccion/vi-insertion-demo.gif)
 
 Cuando no estoy en modo __insertar__, estoy en modo __normal__. Acá todo lo que presiono es un comando como ya lo demostré. Vimos comandos para movernos utilizando objetos de texto, y comandos para operaciones como suprimir e insertar. El siguiente paso, es componer estas dos habilidades: operar sobre objetos de texto.
 
-![gif]({{ site.url }}/assets/images/vim-introduccion/vi-composition-demo.gif)
+![gif]({{ site.url }}{{ site.baseurl }}/assets/images/vim-introduccion/vi-composition-demo.gif)
 
 La composicion es una gran caracteristica de vi. Junto a su modalidad (intercambiando entre modos __insertar__ ó __normal__), podemos lograr operaciones complicadas con sólo un par de teclas. La composición no sólo recibe objetos y operaciones si no tambien números para repetir la misma operación el número determinado de veces. Si se dieron cuenta, en algunas ocasiones me he estado moviendo por el archivo utilizando la `HJKL` con un número que me permitía moverme una mayor cantidad de lineas. Se puede hacer lo mismo para suprimir dos palabras: `d2w` o insertar la misma linea dos veces: `o2nuevalinea<esc>` produce:
 
@@ -82,7 +82,7 @@ Si decidir que editor de texto ya es una decisión bien personal, el `.vimrc` es
 
 El último beneficio de vim que quiero mencionar, ya fue mencionado. No es tan asombroso como todo lo que hemos revisado, pero hay que admitir que es probablemente la razón por la que mucha gente utiliza vim. Vim vive en la terminal. Eso implica que no necesitas instalar una interfaz gráfica para editar tu texto en una máquina remota. Por ejemplo, digamos que tengo que cambiar unas lineas de codigo en un programa siendo hospedado en una computadora en Holanda [^11],  gracias a vim logro acceder a la máquina por medio de SSH y en mi mismo terminal. Realmente no hay una mejor opción.
 
-![gif]({{ site.url }}/assets/images/vim-introduccion/ipad-setup.png)
+![gif]({{ site.url }}{{ site.baseurl }}/assets/images/vim-introduccion/ipad-setup.png)
 <span class="img-caption">A veces utilizo un emulador de terminal en mi iPad para acceder a la computadora de mi casa y continuar trabajando. El iPad está conectado a un monitor HDMI donde consigo más espacio gracias a tmux.</span>
 
 Hoy en día se trabaja bastante con recursos que no están próximos a nosotros, el terminal moderno es una sesión SSH a una computadora en una central de Amazon, Microsoft ó Google. Esta computadora probablemente corre con Linux y si es así, vim estará disponible.
