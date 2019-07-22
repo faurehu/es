@@ -46,8 +46,12 @@ kramdown:
 
 # Navigation
 nav:
+  - name:           "English"
+    url:            "/"
   - name:           "Github"
     url:            "https://github.com/faurehu/faurehu.github.io"
+  - name:           "Goodreads"
+    url:            "https://www.goodreads.com/user/show/76666744-faure"
 
 # Sass
 sass:
