@@ -47,9 +47,9 @@ kramdown:
 # Navigation
 nav:
   - name:           "English"
-    url:            "/"
+    url:            "http://faure.hu"
   - name:           "Github"
-    url:            "https://github.com/faurehu/faurehu.github.io"
+    url:            "https://github.com/faurehu/es"
   - name:           "Goodreads"
     url:            "https://www.goodreads.com/user/show/76666744-faure"
 
