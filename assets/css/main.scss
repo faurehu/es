@@ -6,3 +6,14 @@ sitemap: false
 @import "typography";
 @import "highlighter";
 @import "site";
+
+iframe,
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+iframe {
+  margin-bottom: 30px;
+}
